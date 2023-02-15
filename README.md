@@ -12,11 +12,11 @@ A live version of this website can be found [here](https://example.com/).
 -->
 ## Algorithms from scratch
 
-### Feed-Forward Neural Netowork
-### Random Forest
-### Decision Tree
-### Naïve Bayes
-### Cart Decision Tree
+#### Feed-Forward Neural Netowork
+#### Random Forest
+#### Decision Tree
+#### Naïve Bayes
+#### Cart Decision Tree
 
 ## Projects
 
