@@ -15,9 +15,9 @@ A live version of this website can be found [here](https://example.com/).
 
 #### Feed-Forward Neural Netowork
 #### Random Forest
-#### Decision Tree
-#### Naïve Bayes
 #### Cart Decision Tree
+#### Naïve Bayes
+#### k-NN
 
 ## Projects
 
