@@ -1,6 +1,7 @@
 # ML_Portfolio
 
-This is a repository showcasing my projects and skills.
+Hello! My name is David Laziuk and I am currently a Machine Learning graduate student 
+at Steven's Institute of Technology. These are my completed projects. 
 
 <!--
 ## Live Website
