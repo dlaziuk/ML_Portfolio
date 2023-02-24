@@ -1,5 +1,4 @@
 # ML_Portfolio
-
 Hello! My name is David Laziuk and I am currently a Machine Learning graduate student 
 at Steven's Institute of Technology. These are my completed projects. 
 
@@ -12,24 +11,20 @@ A live version of this website can be found [here](https://example.com/).
 
 -->
 ## Algorithms from scratch
-
-#### Feed-Forward Neural Netowork
+#### Feed-Forward Neural Network
 #### Random Forest
 #### Cart Decision Tree
+#### Logistic Regression (SGD/Pseudo-inverse)
 #### Naïve Bayes
 #### k-NN
 
 ## Projects
 
 ### Project 1: Hospital Readmission
-
 Predicting if a diabetes patient will be readmitted to the hospital
-
 Link: [link](https://github.com/dlaziuk/ML_Portfolio/tree/main/Hospital%20Readmission)
 
-
 ## Skills
-
 - Data preprocessing
 - Feature engineering
 - Model Selection
@@ -41,6 +36,5 @@ Link: [link](https://github.com/dlaziuk/ML_Portfolio/tree/main/Hospital%20Readmi
 - Data visualization
 
 ## Contact
-
 - Email: [davidlaziuk@gmail.com](mailto:davidlaziuk@gmail.com)
 - LinkedIn: [linkedin.com/in/davidlaziuk](https://www.linkedin.com/in/davidlaziuk/)
