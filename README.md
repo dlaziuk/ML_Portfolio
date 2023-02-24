@@ -11,12 +11,12 @@ A live version of this website can be found [here](https://example.com/).
 
 -->
 ## Algorithms from scratch
-#### Feed-Forward Neural Network
-#### Random Forest
-#### Cart Decision Tree
-#### Logistic Regression (SGD/Pseudo-inverse)
-#### Naïve Bayes
-#### k-NN
+Feed-Forward Neural Network
+Random Forest
+Cart Decision Tree
+Logistic Regression (SGD/Pseudo-inverse)
+Naïve Bayes
+k-NN
 
 ## Projects
 
