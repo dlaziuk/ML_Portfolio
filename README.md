@@ -11,7 +11,7 @@ A live version of this website can be found [here](https://example.com/).
 
 -->
 ## Algorithms from scratch
-Feed-Forward Neural Network
+Feed-Forward Neural Network /n
 Random Forest
 Cart Decision Tree
 Logistic Regression (SGD/Pseudo-inverse)
