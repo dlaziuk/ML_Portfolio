@@ -25,8 +25,8 @@ Predicting if a diabetes patient will be readmitted to the hospital
 Link: [link](https://github.com/dlaziuk/ML_Portfolio/tree/main/Hospital%20Readmission)
 
 ### Project 2: Parts of Speech Recognition
-Here, features for classifing parts of speech were generated.
-OpenAI's text-davinci API was used to generate more abstract features.
+Here, features for classifing parts of speech were generated. /n
+OpenAI's text-davinci API was used to generate more abstract features. /n
 Link: [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/Parts%20Of%20Speech/PartsOfSpeech.ipynb)
 
 ### Project 3: Panorama Stitching
