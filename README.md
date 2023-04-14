@@ -20,18 +20,16 @@ A live version of this website can be found [here](https://example.com/).
 
 ## Projects
 
-### Project 1: Hospital Readmission
-Predicting if a diabetes patient will be readmitted to the hospital
-Link: [link](https://github.com/dlaziuk/ML_Portfolio/tree/main/Hospital%20Readmission)
+### Project 1: Hospital Readmission [link](https://github.com/dlaziuk/ML_Portfolio/tree/main/Hospital%20Readmission)
+Predicting if a diabetes patient will be readmitted to the hospital.  
 
-### Project 2: Parts of Speech Recognition
-Here, features for classifing parts of speech were generated. /n
-OpenAI's text-davinci API was used to generate more abstract features. /n
-Link: [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/Parts%20Of%20Speech/PartsOfSpeech.ipynb)
+### Project 2: Parts of Speech Recognition [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/Parts%20Of%20Speech/PartsOfSpeech.ipynb)
+Here, features for classifing parts of speech were generated.  
+OpenAI's text-davinci API was used to generate more abstract features.  
 
-### Project 3: Panorama Stitching
-Developed a computer vision project to stitch two photos without using external functions. 
-Link: [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/Panorama%20Stitching/Panorama%20Stiching.ipynb)
+### Project 3: Panorama Stitching [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/Panorama%20Stitching/Panorama%20Stiching.ipynb)
+Developed a computer vision project to stitch two photos without using external functions.  
+
 
 ## Skills
 - Data preprocessing
