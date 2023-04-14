@@ -24,6 +24,10 @@ A live version of this website can be found [here](https://example.com/).
 Predicting if a diabetes patient will be readmitted to the hospital
 Link: [link](https://github.com/dlaziuk/ML_Portfolio/tree/main/Hospital%20Readmission)
 
+### Project 2: Panorama Stitching
+Developed a computer vision project to stitch two photos without using external functions. 
+Link: [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/Panorama%20Stitching/Panorama%20Stiching.ipynb)
+
 ## Skills
 - Data preprocessing
 - Feature engineering
