@@ -24,7 +24,12 @@ A live version of this website can be found [here](https://example.com/).
 Predicting if a diabetes patient will be readmitted to the hospital
 Link: [link](https://github.com/dlaziuk/ML_Portfolio/tree/main/Hospital%20Readmission)
 
-### Project 2: Panorama Stitching
+### Project 2: Parts of Speech Recognition
+Here, features for classifing parts of speech were generated.
+OpenAI's text-davinci API was used to generate more abstract features.
+Link: [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/Parts%20Of%20Speech/PartsOfSpeech.ipynb)
+
+### Project 3: Panorama Stitching
 Developed a computer vision project to stitch two photos without using external functions. 
 Link: [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/Panorama%20Stitching/Panorama%20Stiching.ipynb)
 
