@@ -33,7 +33,11 @@ Per-Layer paramaters: (conv/dense), filter size, filter count, batchnorm, activa
 Here, features for classifing parts of speech were generated.  
 OpenAI's text-davinci API was used to generate more abstract features.  
 
-### Project 4: Panorama Stitching [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/Panorama%20Stitching/Panorama%20Stiching.ipynb)
+### Project 4: 3D Reconstruction from Images [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/VoxelGrid/VoxelGrid.ipynb)
+This is a Voxel-Based Reconstruction of a dancer from 8 images taken in the same moment.  
+A blank grid was populated from the images, where texture was later applied.
+
+### Project 5: Panorama Stitching [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/Panorama%20Stitching/Panorama%20Stiching.ipynb)
 Developed a computer vision project to stitch two photos without using external functions.  
 
 
