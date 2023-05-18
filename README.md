@@ -14,11 +14,11 @@ A live version of this website can be found [here](https://example.com/).
 ## Projects
 
 ### Project 1: Time Series Analysis: Analyzing Daily SPY ETF Data and Monthly Solar Production  [link](https://github.com/dlaziuk/ML_Portfolio/blob/main/GARCH%2C%20ARMA%2C%20SARMA/TSAPaper.pdf)
-Conducted a comprehensive time series analysis on two distinct datasets: the daily adjusted close prices of the SPY ETF (non-seasonal) and the monthly solar production at the Southland Leisure Centre in Canada (seasonal).
-Preprocessed data using Python and performed the analysis with the R programming language. Verified non-seasonality and tested stationarity in the financial data. Applied different transformations, ARIMA, and GARCH models in the attempt to create accurate forecasts.
-Although GARCH models failed to provide satisfactory forecasts, a rolling mean detrending technique followed by the application of an ARMA(2,1) model led to successful forecasting of the SPY ETF prices. This demonstrated adaptability in employing different techniques to overcome analytical challenges.
-For the seasonal dataset, confirmed the presence of seasonality, performed seasonal differencing, and tested various SARIMA models. The best fitting SARIMA model provided accurate forecasts of the solar production data.
-Demonstrated advanced statistical forecasting techniques' effectiveness in addressing unique challenges posed by each dataset. The ability to accurately forecast both SPY ETF prices and solar production volumes can provide valuable insights for investment strategies, risk management, and renewable energy sector management, offering significant value to businesses in these areas.
+Conducted a comprehensive time series analysis on two distinct datasets: the daily adjusted close prices of the SPY ETF (non-seasonal) and the monthly solar production at the Southland Leisure Centre in Canada (seasonal).  
+Preprocessed data using Python and performed the analysis with the R programming language. Verified non-seasonality and tested stationarity in the financial data. Applied different transformations, ARIMA, and GARCH models in the attempt to create accurate forecasts.  
+Although GARCH models failed to provide satisfactory forecasts, a rolling mean detrending technique followed by the application of an ARMA(2,1) model led to successful forecasting of the SPY ETF prices. This demonstrated adaptability in employing different techniques to overcome analytical challenges.  
+For the seasonal dataset, confirmed the presence of seasonality, performed seasonal differencing, and tested various SARIMA models. The best fitting SARIMA model provided accurate forecasts of the solar production data.  
+Demonstrated advanced statistical forecasting techniques' effectiveness in addressing unique challenges posed by each dataset. The ability to accurately forecast both SPY ETF prices and solar production volumes can provide valuable insights for investment strategies, risk management, and renewable energy sector management, offering significant value to businesses in these areas.  
 
 ### Project 2: Hospital Readmission [link](https://github.com/dlaziuk/ML_Portfolio/tree/main/Hospital%20Readmission)
 Predicting if a diabetes patient will be readmitted to the hospital.  
