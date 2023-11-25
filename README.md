@@ -1,6 +1,5 @@
 # ML_Portfolio
-Hello! My name is David Laziuk and I am currently a Machine Learning graduate student 
-at Steven's Institute of Technology. These are my completed projects. 
+Hello! I'm David Laziuk, a recent Machine Learning graduate from Stevens Institute of Technology. Welcome to my project portfolio, where I've compiled a range of initiatives showcasing my expertise in AI, data mining, and natural language processing. Each project here represents a blend of innovative machine learning techniques, from end-to-end system development to advanced work with synthetic data.
 
 <!--
 ## Live Website
