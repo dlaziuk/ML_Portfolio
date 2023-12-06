@@ -32,6 +32,20 @@ Key Achievements:
  - Established baseline performances with traditional machine learning models, such as Naive Predictions, Linear Regression, and SVMs.
  - Rigorously evaluated the Transformer models against these baselines, using metrics like MAE, MSE, RMSE, and Directional Accuracy, where the Transformer models consistently outperformed the baselines.
 
+## [Advancing Problem-Solving in GPT-4 Through Self-Correction Mechanisms](https://github.com/dlaziuk/ML_Portfolio/blob/main/GPT-4%20Self-Correction/Laziuk%20Paper.pdf)
+This study presents a experiment with GPT-4, focusing on enhancing problem-solving abilities in complex computational tasks through self-correction. The research addresses hard-level problems from LeetCode, initially approached using Chain of Thought (COT) prompting. It explores the potential of self-correcting mechanisms in language models to refine their problem-solving skills, emphasizing scenarios where precision and accuracy are crucial.
+
+Key Achievements:
+1. Innovative Self-Correction Methodology:
+ - Employed a unique self-correction process where the model iteratively refines its outputs, leading to more accurate solutions.
+ - Demonstrated the model's capability to introspect and improve upon its logic, marking a significant advancement in AI problem-solving techniques.
+2. Complex Problem-Solving with GPT-4:
+ - Tackled hard-level LeetCode problems using GPT-4’s COT prompting for initial solution generation, followed by a self-correction phase.
+ - Showcased the model's potential to handle intricate computational challenges, emphasizing the importance of accuracy over efficiency.
+3. Experimental Results and Insights:
+ - Conducted rigorous experiments that revealed an improvement in solution quality post self-correction, despite increased computational costs.
+ - Provided empirical evidence supporting the hypothesis that self-correction can significantly enhance language models' problem-solving abilities.
+
 ## [Synthetic Image Generation](https://github.com/dlaziuk/ML_Portfolio/blob/main/Synthetic%20Image%20Generation/Plate%20Generator.ipynb)
 In this project, I developed a tool to create an unlimited supply of fully-labeled, realistic license plate images. This synthetic dataset significantly boosted the performance of computer vision models in reading license plates, surpassing the limitations of available real-world data.
 
