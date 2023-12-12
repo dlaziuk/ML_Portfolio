@@ -12,7 +12,7 @@ A live version of this website can be found [here](https://example.com/).
 
 # Projects
 
-## [Transformers in Financial NLP: Market Movements from 8-K reports](https://github.com/dlaziuk/ML_Portfolio/blob/main/Transformers%20in%20Financial%20NLP/Financial%20NLP.ipynb)
+## [Transformers in Financial NLP: Market Movements from 8-K reports]([https://github.com/dlaziuk/ML_Portfolio/blob/main/Transformers%20in%20Financial%20NLP/Financial%20NLP.ipynb](https://github.com/dlaziuk/ML_Portfolio/blob/main/Transformers%20in%20Financial%20NLP/Financial%20NLP.pdf))
 This project was designed to harness the power of Natural Language Processing (NLP) for analyzing financial documents, specifically the 8-K reports of S&P 500 companies. The primary goal was to utilize Transformer models and advanced data processing techniques to predict market movements, offering a novel financial indicator.
 
 Key Achievements:
