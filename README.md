@@ -32,7 +32,7 @@ Key Achievements:
  - Established baseline performances with traditional machine learning models, such as Naive Predictions, Linear Regression, and SVMs.
  - Rigorously evaluated the Transformer models against these baselines, using metrics like MAE, MSE, RMSE, and Directional Accuracy, where the Transformer models consistently outperformed the baselines.
 
-## [Advancing Problem-Solving in GPT-4 Through Self-Correction Mechanisms](https://github.com/dlaziuk/ML_Portfolio/blob/main/GPT-4%20Self-Correction/Laziuk%20Paper.pdf)
+## [Advancing Problem-Solving in GPT-4 Through Self-Correction Mechanisms](https://github.com/dlaziuk/ML_Portfolio/blob/main/GPT-4%20Self-Correction/GPT_4_Self_Correction.pdf)
 This study presents a experiment with GPT-4, focusing on enhancing problem-solving abilities in complex computational tasks through self-correction. The research addresses hard-level problems from LeetCode, initially approached using Chain of Thought (COT) prompting. It explores the potential of self-correcting mechanisms in language models to refine their problem-solving skills, emphasizing scenarios where precision and accuracy are crucial.
 
 Key Achievements:
